@@ -1,0 +1,6 @@
+git status
+git push
+git config
+git log
+git add
+“GitHub: updated cs102 lecture notes”
