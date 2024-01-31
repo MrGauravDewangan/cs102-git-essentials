@@ -3,3 +3,7 @@ git push
 git config
 git log
 git ad
+
+
+100 lines of what i studied
+
